@@ -1,0 +1,1 @@
+The files are currently set so that occupancy grid runs. In order to run bitmap, replace above files and folders with the corresponding directory.
